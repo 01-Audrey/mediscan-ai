@@ -26,7 +26,7 @@ Upload a chest X-ray and get instant AI-powered predictions with explainable Gra
 
 <img width="1795" height="942" alt="Screenshot 2025-11-16 233818" src="https://github.com/user-attachments/assets/e2f2e298-f889-470d-98bb-f19f6eeeb166" />
 
-<img width="1478" height="1026" alt="Screenshot 2025-11-16 230907" src="https://github.com/user-attachments/assets/d5732621-65a0-4351-9ef9-6ed5c90542aa" />
+<img width="1478" height="935" alt="Screenshot 2025-11-16 230907" src="https://github.com/user-attachments/assets/07dd9697-6e9b-4578-86d5-cb79d8ec97dd" />
 
 ### Live Application Interface
 
